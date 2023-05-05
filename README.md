@@ -1,2 +1,3 @@
-# Practice_Prawanrat_work
-Created with CodeSandbox
+# vuetify-codesandbox
+
+Vuetify template to use on CodeSandbox projects
